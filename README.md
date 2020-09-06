@@ -1,4 +1,4 @@
-# What? Lolcat
+# What?
 
 ![](https://github.com/busyloop/lolcat/raw/master/ass/nom.jpg)
 
